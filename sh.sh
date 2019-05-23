@@ -79,7 +79,7 @@ clear
 echo ""
 date | lolcat | screenfetch -A Linux
 sleep 10
-echo "HAY $nam MAAF YA TOOLSYA BRANTAKAN HEHE"|lolcat
+echo "HAY $nam MAAF YA TOOLSYA BRANTAKAN HEHE. BTW TOOLS GUA PENDING DULU MAU ADA UPDATE"|lolcat
 echo "HARGAILAH WALAU BRANTAKAN TOOLS INI HASIL" | lolcat
 echo "SAYA SEBDIRI MAAF KALO TOOLS.INI GA BERGUNA"|lolcat
 echo
