@@ -26,10 +26,10 @@ ku='\033[33;1m' #kuning
 
 clear
 date | lolcat | screenfetch -A Debian
-echo "□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□"|lolcat
-echo "□ Xer Xez gans Ea pucki asw babi□"|lolcat
-echo "□  JANGAN DI RECODE GAN KASIAN  □"|lolcat
-echo "□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□"|lolcat
+echo "â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡"|lolcat
+echo "â–¡ Xer Xez gans Ea pucki asw babiâ–¡"|lolcat
+echo "â–¡  JANGAN DI RECODE GAN KASIAN  â–¡"|lolcat
+echo "â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡"|lolcat
 echo
 echo -e "============================" | lolcat
 echo -e $c "1. Install Nmap${enda}";
@@ -74,13 +74,13 @@ echo -e $c "20. Ddos (XerXez)${enda}";
 echo -e "============================" | lolcat
 echo -e $c "21. Spam Tri(XerXez)${enda}";
 echo -e "============================" | lolcat
-echo -e "╭─ROOT@XerXez7" | lolcat
-read -p "╰─$□ " kok;
+echo -e "â•­â”€ROOT@XerXez7" | lolcat
+read -p "â•°â”€$â–¡ " kok;
 
 if [ $kok = 1 ] || [ $kon = 1 ]
 then
 pkg install nmap
-read -p "╰─#" ase;
+read -p "â•°â”€#" ase;
 nmap $ase
 sleep 10
 sh i.sj
@@ -91,7 +91,7 @@ then
 toilet MENGINSTALL | lolcat
 git clone https://github.com/the-c0d3r/admin-finder.git
 figlet DONE | lolcat
-echo -e "□□□□□□□□|LIAR DI DIREKTORI TOOLS"|lolcat
+echo -e "â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡|LIAR DI DIREKTORI TOOLS"|lolcat
 sleep 10
 sh i.sh
 fi
@@ -101,7 +101,7 @@ then
 toilet MENGINSTALL | lolcat
 git clone https://github.com/Tuhinshubhra/RED_HAWK
 figlet DONE | lolcat
-echo -e "□□□□□□□□|LIAR DI DIREKTORI TOOLS"|lolcat
+echo -e "â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡|LIAR DI DIREKTORI TOOLS"|lolcat
 sleep 10
 sh i.sh
 fi
@@ -112,7 +112,7 @@ then
 toilet MENGINSTALL | lolcat
 git clone https://github.com/Gameye98/Lazymux
 figlet DONE | lolcat
-echo -e "□□□□□□□□|LIAR DI DIREKTORI TOOLS"|lolcat
+echo -e "â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡|LIAR DI DIREKTORI TOOLS"|lolcat
 sleep 10
 sh i.sh
 fi
@@ -122,7 +122,7 @@ then
 toilet MENGINSTALL | lolcat
 git clone https://github.com/Rajkumrdusad/Tool-X
 figlet DONE | lolcat
-echo -e "□□□□□□□□|LIAR DI DIREKTORI TOOLS"|lolcat
+echo -e "â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡|LIAR DI DIREKTORI TOOLS"|lolcat
 sleep 10
 sh i.sh
 fi
@@ -132,7 +132,7 @@ then
 toilet MENGINSTALL | lolcat
 git clone https://github.com/mrcakil/Mrcakil.git
 figlet DONE | lolcat
-echo -e "□□□□□□□□|LIAR DI DIREKTORI TOOLS"|lolcat
+echo -e "â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡|LIAR DI DIREKTORI TOOLS"|lolcat
 sleep 10
 sh i.sh
 fi
@@ -142,7 +142,7 @@ then
 toilet MENGINSTALL | lolcat
 git clone https://github.com/shawarkhanethicalhacker/D-TECT
 figlet DONE | lolcat
-echo -e "□□□□□□□□|LIAR DI DIREKTORI TOOLS"|lolcat
+echo -e "â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡|LIAR DI DIREKTORI TOOLS"|lolcat
 sleep 10
 sh i.sh
 fi
@@ -152,7 +152,7 @@ then
 toilet MENGINSTALL | lolcat
 
 figlet DONE | lolcat
-echo -e "□□□□□□□□|LIAR DI DIREKTORI TOOLS"|lolcat
+echo -e "â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡|LIAR DI DIREKTORI TOOLS"|lolcat
 sleep 10
 sh i.sh
 fi
@@ -163,7 +163,7 @@ then
 toilet MENGINSTALL | lolcat
 git clone https://github.com/DarknessCyberTeam/BAJINGANv6
 figlet DONE | lolcat
-echo -e "□□□□□□□□|LIAR DI DIREKTORI TOOLS"|lolcat
+echo -e "â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡|LIAR DI DIREKTORI TOOLS"|lolcat
 sleep 10
 sh i.sh
 fi
@@ -173,7 +173,7 @@ then
 toilet MENGINSTALL | lolcat
 git clone https://github.com/pirmansx/mbf
 figlet DONE | lolcat
-echo -e "□□□□□□□□|LIAR DI DIREKTORI TOOLS"|lolcat
+echo -e "â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡|LIAR DI DIREKTORI TOOLS"|lolcat
 sleep 10
 sh i.sh
 fi
@@ -183,7 +183,7 @@ then
 toilet MENGINSTALL | lolcat
 git clone https://github.com/zanyarjamal/xerxes
 figlet DONE | lolcat
-echo -e "□□□□□□□□|LIAR DI DIREKTORI TOOLS"|lolcat
+echo -e "â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡|LIAR DI DIREKTORI TOOLS"|lolcat
 sleep 10
 sh i.sh
 fi
@@ -193,7 +193,7 @@ then
 toilet MENGINSTALL | lolcat
 git clone https://github.com/4L13199/LITESPAM
 figlet DONE | lolcat
-echo -e "□□□□□□□□|LIAR DI DIREKTORI TOOLS"|lolcat
+echo -e "â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡|LIAR DI DIREKTORI TOOLS"|lolcat
 sleep 10
 sh i.sh
 fi
@@ -203,7 +203,7 @@ then
 toilet MENGINSTALL | lolcat
 git clone https://github.com/ashishb/android-malware
 figlet DONE | lolcat
-echo -e "□□□□□□□□|LIAR DI DIREKTORI TOOLS"|lolcat
+echo -e "â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡|LIAR DI DIREKTORI TOOLS"|lolcat
 sleep 10
 sh i.sh
 fi
@@ -213,7 +213,7 @@ then
 toilet MENGINSTALL | lolcat
 git clone https://github.com/SigPloiter/SigPloit
 figlet DONE | lolcat
-echo -e "□□□□□□□□|LIAR DI DIREKTORI TOOLS"|lolcat
+echo -e "â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡|LIAR DI DIREKTORI TOOLS"|lolcat
 sleep 10
 sh i.sh
 fi
@@ -223,7 +223,7 @@ then
 toilet MENGINSTALL | lolcat
 git clone https://github.com/inyour77/GBLKcerew
 figlet DONE | lolcat
-echo -e "□□□□□□□□|LIAR DI DIREKTORI TOOLS"|lolcat
+echo -e "â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡|LIAR DI DIREKTORI TOOLS"|lolcat
 sleep 10
 sh i.sh
 fi
@@ -232,7 +232,7 @@ then
 toilet MENGINSTALL | lolcat
 git  clone https://github.com/inyour77/EfbehPp
 figlet DONE | lolcat
-echo -e "□□□□□□□□|LIAR DI DIREKTORI TOOLS"|lolcat
+echo -e "â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡|LIAR DI DIREKTORI TOOLS"|lolcat
 sleep 10
 sh i.sh
 fi
@@ -242,7 +242,7 @@ then
 toilet MENGINSTALL | lolcat
 git clone https://github.com/inyour77/spmgrb
 figlet DONE | lolcat
-echo -e "□□□□□□□□|LIAR DI DIREKTORI TOOLS"|lolcat
+echo -e "â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡|LIAR DI DIREKTORI TOOLS"|lolcat
 sleep 10
 sh i.sh
 fi
@@ -252,7 +252,7 @@ then
 toilet MENGINSTALL | lolcat
 git clone https://github.com/inyour77/TermuxCtrl
 figlet DONE | lolcat
-echo -e "□□□□□□□□|LIAR DI DIREKTORI TOOLS"|lolcat
+echo -e "â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡|LIAR DI DIREKTORI TOOLS"|lolcat
 sleep 10
 sh i.sh
 fi
@@ -262,7 +262,7 @@ then
 toilet MENGINSTALL | lolcat
 git clone https://github.com/gillanggans7/GameUlar
 figlet DONE | lolcat
-echo -e "□□□□□□□□|LIAR DI DIREKTORI TOOLS"|lolcat
+echo -e "â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡|LIAR DI DIREKTORI TOOLS"|lolcat
 sleep 10
 sh i.sh
 fi
@@ -272,7 +272,7 @@ then
 toilet MENGINSTALL | lolcat
 git clone https://github.com/gillanggans7/DdosXerXez7
 figlet DONE | lolcat
-echo -e "□□□□□□□□|LIAR DI DIREKTORI TOOLS"|lolcat
+echo -e "â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡|LIAR DI DIREKTORI TOOLS"|lolcat
 sleep 10
 sh i.sh
 fi
@@ -282,8 +282,7 @@ if [ $kok = 21 ] || [ $kok = 21 ]
 then
 toilet TUNGGU|lolcat
 git clone https://github.com/gillanggans7/DdosXerXez7
-echo -e "□□□□□□□□|LIAR DI DIREKTORI TOOLS"|lolcat
+echo -e "â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡|LIAR DI DIREKTORI TOOLS"|lolcat
 sleep 10
 sh i.sh
 fi
-
