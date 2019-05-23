@@ -11,9 +11,8 @@ ku='\033[33;1m' #kuning
 echo ""
 clear
 figlet "XerXez7 Gans" | lolcat
-echo "MOHON LAYAR TERMUX DI PERKECIL KARMA MENJAGA KESETABILAN HEHE"|lolcat
-echo -e "╭─NAMA KAMU SIAPA"|lolcat
-read -p '╰─$ ' nam;
+echo -e "â•­â”€NAMA KAMU SIAPA"|lolcat
+read -p 'â•°â”€$ ' nam;
 echo $red"          Tool akan di install dalam waktu 5 detik"
 echo $red"            harap sabar menunggu yaa sayang :v("   
 sleep 1
@@ -70,9 +69,12 @@ pkg install toilet
 gem install lolcat
 pkg install figlet
 sleep 1
-sleep 1
-clear
-sleep 1
+echo "[|]~~~~~~~~~~|||~~~~~~~~~~[|]"|lolcat     echo " |>>InYourXerXez7          |"|lolcat
+echo " |>>2e4h~GBLK CREW         |"|lolcat
+echo " |>>TOOLS NAME : GAGUNA :  |"|lolcat
+echo " |>>HARGAI KARTA ORANG LAIN|"|lolcat
+echo "[|]~~~~~~~~~~|||~~~~~~~~~~[|]"|lolcat
+sleep 10
 clear
 echo ""
 date | lolcat | screenfetch -A Linux
@@ -81,43 +83,10 @@ echo "HAY $nam MAAF YA TOOLSYA BRANTAKAN HEHE"|lolcat
 echo "HARGAILAH WALAU BRANTAKAN TOOLS INI HASIL" | lolcat
 echo "SAYA SEBDIRI MAAF KALO TOOLS.INI GA BERGUNA"|lolcat
 echo
-echo "$ku |×××××××××××××××××|$i |××××××××××××××××|"
-echo "$me |Webdav= (I/i)|      $pur |♤Shell = (S/s)|"
-echo "$ku |◇Insta= (N/n)|      $pu |Exit = (X/x)  |"
-echo "$me |            DDOS (D/d)                 |"|lolcat
-echo "$ku |×××××××××××××××××|$i |××××××××××××××××|"
-echo -e "╭─Root@XerXez7"
-read -p "╰─$ " asw
+echo "$ku |Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—|$i |Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—|"
+echo "$me |â™¤Info = (I/i)|    $pur |â™¤Shell = (S/s)|"
+echo "$ku |â—‡Insta= (N/n)|    $pu |Exit = (X/x)  |"
+echo "$ku |Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—|$i |Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—Ã—|"
+echo -e "â•­â”€Root@XerXez7"
+read -p "â•°â”€$ " asw
 
-
-if [ $asw = I ] || [ $asw = i ]
-then
-figlet IyXerXez7|lolcat
-sh n.sh
-fi
-
-
-if [ $asw = N ] || [ $asw = n ]
-then
-sh i.sh
-fi
-
-
-if [ $asw = S ] || [ $asw = s ]
-then
-sh insta.sh
-fi
-
-if [ $asw = X ] || [ $asw = x ]
-then
-toilet -f big EXIT | lolcat
-exit
-fi
-
-if [ $asw = D ] || [ $asw = d ]
-then
-pkg updat && upgrade
-git clone https://github.com/gillanggans7/DdosXerXez7
-cd DdosXerXez7
-python2 ase.py
-fi
